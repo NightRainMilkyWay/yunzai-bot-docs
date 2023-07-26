@@ -417,6 +417,7 @@ title: Windows 手动部署
 
    ```
    git reset --hard origin/main
+   
    ```
 
 3. 执行(为了升级依赖)

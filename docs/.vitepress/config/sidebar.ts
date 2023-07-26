@@ -15,7 +15,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
         {
           text: '开始',
           items: [
-            { text: '什么是Yunzai bot', link: '/guide/开始/开始.md' },
+            { text: '选择设备', link: '/guide/开始/选择设备.md' },
             {
               text: '脚本部署',
               items: [
